@@ -1,0 +1,28 @@
+This project is a simple web-based E-Library system developed to manage digital book information. The application uses a Node.js backend and a MySQL database to store and retrieve data related to books.
+The project demonstrates how a backend server can connect with a database and provide a basic system for managing library records.
+
+Technologies Used
+- Node.js
+- MySQL
+- JavaScript
+- HTML
+- CSS
+
+Features
+- Store book information in a database
+- Retrieve book data from MySQL
+- Backend server built using Node.js
+- Basic web interface for interacting with the system
+
+Project Structure
+- Backend server developed using Node.js
+- Database connection using MySQL
+- Project dependencies managed with Node packages
+
+Purpose of the Project
+The purpose of this project is to understand how web applications interact with databases and how Node.js can be used to build backend services.
+
+Future Improvements
+- Add user login system
+- Add book search functionality
+- Implement book borrowing and return management
